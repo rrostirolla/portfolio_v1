@@ -1,0 +1,88 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #03161C;
+    color: #BFDBF7;
+}
+
+.navbar {
+    background-color: #010F14;
+}
+
+.nav .nav-link.active {
+    background-color: #BFDBF7;
+    color: #104550;
+}
+
+.nav .nav-link,
+.navbar-brand a,
+.nav-cardapio .nav-link.active:hover {
+    color: #BFDBF7;
+    text-decoration: none;
+}
+
+.navbar-brand a:hover {
+    color: #1F7A8C;
+}
+
+.navbar-brand {
+    font-size: 1.7rem;
+    color: #BFDBF7;
+    font-family: var(--global-font-family-title);
+    font-weight: bold;
+}
+
+.navbar-toggler {
+    background-color: #BFDBF7;
+}
+
+.section-title {
+    font-family: var(--global-font-family-title);
+}
+
+.text-colored,
+.nav-tecnologia .nav-link:hover {
+    color: #1F7A8C;
+}
+
+.nav-tecnologia .nav-link.active,
+#contato button, footer {
+    background-color: #010F14;
+    color: #BFDBF7;
+}
+
+.nav-tecnologia .nav-link:hover {
+    color: #b6c2d9;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+    font-size: 32px;
+}
+
+#logo-tec {
+    width: 120px;
+}
+
+#port-total {
+    text-decoration: none;
+    color: #BFDBF7;
+}
+
+#port-total:hover {
+    color: #1F7A8C;
+}
+
+@media screen and (max-width: 767px) {
+    .container {
+        max-width: 90%;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem
+    }
+}
