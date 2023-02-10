@@ -15,7 +15,8 @@ Bootstrap
 
 ### 🎴 Imagem do projeto
 
-![portfolio](https://user-images.githubusercontent.com/114628700/217920968-1b955b12-c316-4ab3-891d-283349202e9f.png)
+![portfolio](https://user-images.githubusercontent.com/114628700/217970200-9f704031-71f7-4ddf-821f-c90dd3a0269f.jpg)
+
 
 
 </br>
